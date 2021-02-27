@@ -6,6 +6,8 @@
 
 ---
 
-Used: HTML, SCSS
+Feature I am proud of:
 
-Feature: Responsive layout, button with effect, animated I'm lucky button
+My Apps button with circle background on hover
+
+Animated I'm Feeling Lucky button, made using marquee animation
