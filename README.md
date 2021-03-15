@@ -1,6 +1,6 @@
 # Google-Homepage
 
-[Live Preview](https://helium5250.github.io/Google-Homepage/)
+[Live Preview](https://codicate.github.io/google-homepage/)
 
 [The Odin Project](https://www.theodinproject.com/)
 
